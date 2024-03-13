@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import WatchElement from '../WatchElement/WatchElement';
 
+
 const Watch = () => {
       const [watch, setWatch] = useState([]);
       // useEffect(() =>{
@@ -17,9 +18,11 @@ const Watch = () => {
       return (
             <div>
                   <h2>this is watch : {watch.length}</h2>
+                  <div className='card-container'>
                   {
                         watch.map(watch => <WatchElement watch ={watch}/>)
                   }
+                  </div>
                   
             </div>
       );
