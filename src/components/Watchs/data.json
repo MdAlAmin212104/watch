@@ -1,0 +1,58 @@
+[
+      {
+        "brand": "Apple",
+        "model": "Watch Series 6",
+        "case_material": "Aluminum",
+        "case_size_mm": 40,
+        "display_size_mm": 34,
+        "water_resistance_m": 50,
+        "heart_rate_monitor": true,
+        "gps": true,
+        "price_usd": 399
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Watch 4",
+        "case_material": "Stainless Steel",
+        "case_size_mm": 42,
+        "display_size_mm": 36,
+        "water_resistance_m": 50,
+        "heart_rate_monitor": true,
+        "gps": true,
+        "price_usd": 349
+      },
+      {
+        "brand": "Fitbit",
+        "model": "Versa 3",
+        "case_material": "Aluminum",
+        "case_size_mm": 40,
+        "display_size_mm": 30,
+        "water_resistance_m": 50,
+        "heart_rate_monitor": true,
+        "gps": true,
+        "price_usd": 229
+      },
+      {
+        "brand": "Garmin",
+        "model": "Forerunner 945",
+        "case_material": "Fiber-Reinforced Polymer",
+        "case_size_mm": 47,
+        "display_size_mm": 34,
+        "water_resistance_m": 50,
+        "heart_rate_monitor": true,
+        "gps": true,
+        "price_usd": 599
+      },
+      {
+        "brand": "Huawei",
+        "model": "Watch GT 2 Pro",
+        "case_material": "Titanium",
+        "case_size_mm": 46,
+        "display_size_mm": 32,
+        "water_resistance_m": 50,
+        "heart_rate_monitor": true,
+        "gps": true,
+        "price_usd": 299
+      }
+    ]
+    

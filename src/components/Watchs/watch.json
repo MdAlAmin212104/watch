@@ -1,0 +1,111 @@
+[
+  {
+    "brand": "Apple",
+    "model": "Watch Series 7",
+    "case_material": "Aluminum",
+    "case_size_mm": 41,
+    "display_size_mm": 32,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 399,
+    "image_url": "https://example.com/apple_watch_series_7.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Watch 4",
+    "case_material": "Stainless Steel",
+    "case_size_mm": 44,
+    "display_size_mm": 40,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 279,
+    "image_url": "https://example.com/samsung_galaxy_watch_4.jpg"
+  },
+  {
+    "brand": "Fitbit",
+    "model": "Versa 3",
+    "case_material": "Aluminum",
+    "case_size_mm": 40,
+    "display_size_mm": 34,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 229,
+    "image_url": "https://example.com/fitbit_versa_3.jpg"
+  },
+  {
+    "brand": "Garmin",
+    "model": "Forerunner 945",
+    "case_material": "Fiber-Reinforced Polymer",
+    "case_size_mm": 47,
+    "display_size_mm": 36,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 599,
+    "image_url":"https://m.media-amazon.com/images/I/71yEVu1OiKL._AC_SL1500_.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Watch 4",
+    "case_material": "Stainless Steel",
+    "case_size_mm": 44,
+    "display_size_mm": 40,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 279,
+    "image_url": "https://m.media-amazon.com/images/I/81+d6eSA0eL._AC_UY1000_.jpg"
+  },
+  {
+    "brand": "Fitbit",
+    "model": "Versa 3",
+    "case_material": "Aluminum",
+    "case_size_mm": 40,
+    "display_size_mm": 34,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 229,
+    "image_url": "https://example.com/fitbit_versa_3.jpg"
+  },
+  {
+    "brand": "Garmin",
+    "model": "Forerunner 945",
+    "case_material": "Fiber-Reinforced Polymer",
+    "case_size_mm": 47,
+    "display_size_mm": 36,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 599,
+    "image_url": "https://img203.yun300.cn/repository/image/2c7bd65c-46a9-4305-8b01-0ee0ddca3573.png?tenantId=255679&viewType=1&k=1661509255000"
+  },
+  {
+    "brand": "Huawei",
+    "model": "Watch GT 3",
+    "case_material": "Stainless Steel",
+    "case_size_mm": 46,
+    "display_size_mm": 34,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 329,
+    "image_url": "https://m.media-amazon.com/images/I/71JSM9kTEwS._AC_SL1500_.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "model": "Watch GT 3",
+    "case_material": "Stainless Steel",
+    "case_size_mm": 46,
+    "display_size_mm": 34,
+    "water_resistance_m": 50,
+    "heart_rate_monitor": true,
+    "gps": true,
+    "price_usd": 329,
+    "image_url": "https://smartdeal.com.bd/public/uploads/all/Azu6hg0hiKh7fPNAKikWaJBTHqgLBdJY5WvhBqHs.jpg"
+  }
+]
+    
